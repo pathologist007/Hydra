@@ -1,0 +1,23 @@
+Dear NOOB user!
+     in the command lines: def download_video():
+                             # Set the destination folder
+                                download_path = r"C:\Users\Username\Downloads"
+You should edit the path to set a destination folder to download videos in by editing the code mannualy using e.g. visual studio code.
+
+You need to set tha PATH of python.exe on Environment variables|path|New path|and then paste tha path of python.exe
+
+You have to install pip [https://youtu.be/nj8gVMH6yR8?si=1d8VRkzqDXjkEjco]
+
+You need to install yt-dlp library [TYPE THE FOLLOWING COMMAND ON CMD: pip install yt-dlp]
+
+and finally install FFmpeg [https://youtu.be/DMEP82yrs5g?si=8fouS05gPqkjGTSJ]
+
+If you use CMD to reach the location of hydra.py, don not forget to copy the file location from properties and TYPE: cd\ THE-COPIED-PATH
+and then it will open the file location to run it successfully, but you can run it from the .py file or shortcut and beging easily.
+
+if you are using windows 10 TYPE: py hydra.py
+if you are using windows 7 TYPE : python hydra.py
+
+you can use the icon attached in the folder to change the shape of the shortcut you will make [https://www.youtube.com/watch?v=RYFhNvoriq0]
+
+Regards!
