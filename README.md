@@ -1,2 +1,2 @@
-Download videos using your terminal free!
-Feel free, It is available on linux and windows
+Download Youtube videos using your terminal!
+Feel free, It is available on Linux, Mac and Windows!
