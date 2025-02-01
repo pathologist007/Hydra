@@ -47,7 +47,7 @@ It is recommended to use a virtual environment to install the prerequisites. Thi
 
 1. **Run the script:**
     ```sh
-    python download_video.py
+    python Hydra.py
     ```
 
 2. **Enter the video URL when prompted.**
