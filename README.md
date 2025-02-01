@@ -1,4 +1,4 @@
-# Video Downloader Script
+# Hydra
 
 This script allows you to download videos from various sources using `yt-dlp`. It supports dynamic destination folders, video format selection (mp4 or mkv), and video resolution options.
 
